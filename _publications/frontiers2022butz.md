@@ -2,13 +2,13 @@
 title: "Versatile and Targeted Validation of Space-Borne XCO2, XCH4 and XCO Observations by Mobile Ground-Based Direct-Sun Spectrometers"
 collection: publications
 permalink: /publication/frsen2021butz
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is a follow-up paper on the ship-borne FTIR spectrometer publication, which now is in cooperation with Japans National Institute of Environmental Science (NIES).'
 date: 2009-10-01
 venue: 'Frontiers in Remote Sensing'
 paperurl: 'https://doi.org/10.3389/frsen.2021.775805'
 citation: 'Butz et al., (2022). &quot;Versatile and Targeted Validation of Space-Borne XCO2, XCH4 and XCO Observations by Mobile Ground-Based Direct-Sun Spectrometers.&quot; <i>Frontiers in Remote Sensing</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is a follow-up paper on the ship-borne FTIR spectrometer publication, which now is in cooperation with Japans National Institute of Environmental Science (NIES).
 
 [Download paper here](https://doi.org/10.3389/frsen.2021.775805)
 
