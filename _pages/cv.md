@@ -13,14 +13,14 @@ Education
 ======
 * B.Sc. in Physics, Heidelberg University, 2017
 * M.Sc. in Physics, Heidelberg University, 2019
-* Ph.D in Atmospheric Physics, Heidelberg University, 2024 (expected)
+* Ph.D. in Atmospheric Physics, Heidelberg University, 2024 (expected)
 
 Work experience
 ======
 * Spring 2020: Research Assistant
   * Heidelberg University
   * Duties included: Publication
-  * Supervisor: Professor Dr. André Butz
+  * Supervisor: Prof. Dr. André Butz
 
 * Winter 2016/2017: Internship at [Institute for Energie- und Umweltwissenschaften](https://www.ifeu.de)
   * Department: Mobility
