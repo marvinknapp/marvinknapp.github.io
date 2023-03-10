@@ -1,7 +1,7 @@
 ---
 title: "Spectrometric imaging of sub-hourly methane emission dynamics from coal mine ventilation"
 collection: publications
-permalink: /publication/erl23knapp
+permalink: /publication/erl2023knapp
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-03-10
 venue: 'Environmental Research Letters'
