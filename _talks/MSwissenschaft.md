@@ -3,7 +3,7 @@ title: "DIALOG AN DECK: KLIMAKRISE IM DETAIL – WAS KANN PASSIEREN? WIE SIND WI
 collection: talks
 type: "Open Discussion"
 permalink: talks/2022-09-02
-venue: "UC San Francisco, Department of Testing"
+venue: "MS Wissenschaft, BMWF"
 date: 2022-09-02
 location: "Heidelberg, Germany"
 ---

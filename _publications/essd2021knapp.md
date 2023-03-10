@@ -1,7 +1,7 @@
 ---
 title: "Shipborne measurements of XCO2, XCH4, and XCO above the Pacific Ocean and comparison to CAMS atmospheric analyses and S5P/TROPOMI"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/essd2021knapp
 excerpt: 'This paper describes ship-borne measurements with a FTIR spectrometer over the Pacific. We developed a weather-proof enclosure for an EM27/SUN FTIR and performed five weeks of observations.'
 date: 2021-01-29
 venue: 'Earth System Science Data'
