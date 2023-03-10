@@ -26,7 +26,7 @@ In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather
 
 In 2022, we conducted a field campaign in Poland, where coal mining causes a large fraction of the European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation are still badly constrained and understood due to complexity of the causes. We were first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe emission dynamics on minute-scales by plume imaging. These information are crucial to understand the meaning of snapshot-images from airborne instruments and the images alone provide important information on the sources, e.g. the effective atmospheric entry height of methane for climate models.
 
-| <img src='fig1_instruments.png'> | 
+| <img src='/images/fig1_instruments.png'> | 
 |:--:| 
 | *Our field setup in Poland; we are observing coal mine ventilation shafts (a) with a hyperspectral camera (b) and a co-deployed wind lidar (c).* |
 
