@@ -11,7 +11,7 @@ redirect_from:
 
 
 I was on a boat
-<img src='/images/images\Marvin Knapp_Ralph Kleinschek_SONNE_RomanKroke_UFZ_2019.jpg'>
+<img src='/images/MarvinRalphSonne.jpg'>
 thats me and ralph on a boat
 
 
