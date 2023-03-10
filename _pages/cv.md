@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Heidelberg University, 2017
+* M.Sc. in Physics, Heidelberg University, 2019
+* Ph.D in Atmospheric Physics, Heidelberg University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Research Assistant
+  * Heidelberg University
+  * Duties included: Publication
+  * Supervisor: Professor Dr. André Butz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Winter 2016/2017: Internship at [Institute for Energie- und Umweltwissenschaften](https://www.ifeu.de)
+  * Department: Mobility
+  * Duties included: research assisstance, development of a MATLAB-GUI
+  * Supervisor: Udo Lambrecht
+
+* Winter 2012/2013: Internship at [Hilger und Kern](https://www.hilger-kern.de)
+  * Department: Development
+  * Duties included: CAE programming, assisstance
+  * Supervisor: Frank Kern
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* Languages
+  * German (native)
+  * English (expert)
 
 Publications
 ======
@@ -54,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
