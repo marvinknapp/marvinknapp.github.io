@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+Im a Ph.D. student at the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies are supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg).
 
+My research revolves around greenhouse gas measurements, especially the anthropogenic component. I enjoy planning and executing field campaigns in which me and my colleagues gather our data, and thus my research has led me around the world; from five weeks on board the <i>RV Sonne</i> in the [Pacific ocean](https://doi.org/10.5194/essd-13-199-2021) to the volcanoe Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](TBD). Consequently, I work with my own experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as validation opportunities for satellites or by improving our understanding of anthropogenic greenhouse gas emissions.
 
-I was on a boat
-<img src='/images/MarvinRalphSonne.jpg'>
-thats me and ralph on a boat
+In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather-proof houseing for a FTIR-spectrometer which is capable to measure from a moving platform. I evaluated the data in my masters thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean. Below, you can see me and my colleague Ralph figuring out some issues while being in the middle of the ocean.
 
+Sunrise above the Pacific             |  Ralph thinking
+:-------------------------:|:-------------------------:
+<img src='/images/sunrise.jpg'>  |  <img src='/images/MarvinRalphSonne.jpg'>
 
+In 2022, we conducted a field campaign in Poland, where coal mining causes a large fraction of the European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation are still badly constrained and understood due to complexity of the causes. We were first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe emission dynamics on minute-scales by plume imaging. These information are crucial to understand the meaning of snapshot-images from airborne instruments and the images alone provide important information on the sources, e.g. the effective atmospheric entry height of methane for climate models.
 
-
-
-
-
+Field setup             |  Example plume from a coal mine shaft
+:-------------------------:|:-------------------------:
+<img src='/images/fig1_instruments.png'>  |  <img src='/images/fig2_promo.png'>
 
 
 
@@ -53,7 +56,7 @@ For site content, there is one markdown file for each type of content, which are
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, thenun the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
 ------
