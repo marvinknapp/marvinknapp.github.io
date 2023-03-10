@@ -10,9 +10,9 @@ redirect_from:
 
 Im a Ph.D. student at the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies are supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg).
 
-My research revolves around greenhouse gas measurements, especially the anthropogenic component. I enjoy planning and executing field campaigns in which me and my colleagues gather our data, and thus my research has led me around the world; from five weeks on board the <i>RV Sonne</i> in the [Pacific ocean](publication/essd2021knapp) to the volcanoe Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my own experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as validation opportunities for satellites or by improving our understanding of anthropogenic greenhouse gas emissions.
+My research revolves around greenhouse gas measurements, especially the anthropogenic component. I enjoy planning and executing field campaigns in which me and my colleagues gather our data, and thus my research has led me around the world; from five weeks on board the <i>RV Sonne</i> in the [Pacific ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my own experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as validation opportunities for satellites or by improving our understanding of anthropogenic greenhouse gas emissions.
 
-In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather-proof houseing for a FTIR-spectrometer which is capable to measure from a moving platform. I evaluated the data in my masters thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
+In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather-proof housing for a FTIR-spectrometer which is capable to measure from a moving platform. I evaluated the data in my masters thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
 
 | <img src='/images/MarvinRalphSonne.jpg'> | 
 |:--:| 
@@ -28,11 +28,11 @@ In 2022, we conducted a field campaign in Poland, where coal mining causes a lar
 
 | <img src='fig1_instruments.png'> | 
 |:--:| 
-| *Our field setup in Poland; we are observing coal mine ventilation shafts (a) with a hyperspectal camera (b) and a co-deployed wind lidar (c).* |
+| *Our field setup in Poland; we are observing coal mine ventilation shafts (a) with a hyperspectral camera (b) and a co-deployed wind lidar (c).* |
 
 | <img src='/images/fig2_promo.png'> | 
 |:--:| 
-| *This was one of the methane plumes I observed and used for an emission estimate of the coal mine ventilation shaft.* |
+| *This was one of the methane plumes I observed (a) and used for an emission estimate (b) of the coal mine ventilation shaft.* |
 
 
 

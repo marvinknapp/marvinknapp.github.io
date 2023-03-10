@@ -24,12 +24,12 @@ Work experience
 
 * Winter 2016/2017: Internship at [Institute for Energie- und Umweltwissenschaften](https://www.ifeu.de)
   * Department: Mobility
-  * Duties included: research assisstance, development of a MATLAB-GUI
+  * Duties included: research assistance, development of a MATLAB-GUI
   * Supervisor: Udo Lambrecht
 
 * Winter 2012/2013: Internship at [Hilger und Kern](https://www.hilger-kern.de)
   * Department: Development
-  * Duties included: CAE programming, assisstance
+  * Duties included: CAE programming, laboratory assistance
   * Supervisor: Frank Kern
 
 Skills
