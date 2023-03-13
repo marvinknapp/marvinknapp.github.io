@@ -6,7 +6,7 @@ excerpt: 'This paper describes a custom-built airborne DOAS spectrometer which w
 date: 2017-11-08
 venue: 'Atmospheric Measurement Techniques'
 paperurl: 'https://doi.org/10.5194/amt-10-4209-2017'
-citation: ' Hüneke, T. et al., (2017). &quot;The novel HALO mini-DOAS instrument: inferring trace gas concentrations from airborne UV/visible limb spectroscopy under all skies using the scaling method&quot;, <i>Atmos. Meas. Tech.</i>'
+citation: 'Hüneke, T. et al., (2017). &quot;The novel HALO mini-DOAS instrument: inferring trace gas concentrations from airborne UV/visible limb spectroscopy under all skies using the scaling method&quot;, <i>Atmos. Meas. Tech.</i>'
 ---
 This paper describes a custom-built airborne DOAS spectrometer which was developed at the IUP Heidelberg.
 
