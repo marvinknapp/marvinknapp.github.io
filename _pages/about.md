@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Im a Ph.D. student at the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies are supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg).
+I am a Ph.D. student at the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies are supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg).
 
 My research revolves around greenhouse gas measurements, especially the anthropogenic emissions from point sources like power plants. I enjoy planning and executing field campaigns in which me and my colleagues gather our data, and thus my research has led me around the world; from five weeks on board the <i>RV Sonne</i> in the [Pacific ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my own experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as validation opportunities for satellites or by improving our understanding of anthropogenic greenhouse gas emissions.
 
@@ -34,7 +34,7 @@ In 2022, we conducted a field campaign in Poland, where coal mining causes a lar
 |:--:| 
 | *This was one of the methane plumes I observed (a) and used for an emission estimate (b) of the coal mine ventilation shaft.* |
 
-
+In case you want to contact me, the best way is by [mail](mailto:marvink.knapp@uni-heidelberg.de).
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
