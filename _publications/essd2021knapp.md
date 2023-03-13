@@ -6,7 +6,7 @@ excerpt: 'This paper describes ship-borne measurements with a FTIR spectrometer 
 date: 2021-01-29
 venue: 'Earth System Science Data'
 paperurl: 'https://doi.org/10.5194/essd-13-199-2021'
-citation: 'Knapp et al., (2021). &quot;Shipborne measurements of XCO2, XCH4, and XCO above the Pacific Ocean and comparison to CAMS atmospheric analyses and S5P/TROPOMI.&quot; <i>Earth System Science Data</i>.'
+citation: 'Knapp et al., (2021): &quot;Shipborne measurements of XCO2, XCH4, and XCO above the Pacific Ocean and comparison to CAMS atmospheric analyses and S5P/TROPOMI.&quot;, <i>Earth System Science Data</i>.'
 ---
 This paper describes ship-borne measurements with a FTIR spectrometer over the Pacific. We developed a weather-proof enclosure for an EM27/SUN FTIR and performed five weeks of observations.
 

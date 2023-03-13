@@ -6,7 +6,7 @@ excerpt: 'This is a contribution to the European Geosciences Union 2022.'
 date: 2022-03-27
 venue: 'EGU 2022'
 paperurl: 'https://doi.org/10.5194/egusphere-egu22-3924'
-citation: 'Knapp et al., (2022). &quot;Towards Carbon Dioxide emission estimation with a stationary hyperspectral camera&quot; <i>EGU General Assembly 2022</i>. 1(2).'
+citation: 'Knapp et al., (2022): &quot;Towards Carbon Dioxide emission estimation with a stationary hyperspectral camera&quot;, <i>EGU General Assembly 2022</i>.'
 ---
 This is a contribution to the European Geosciences Union 2022.
 
