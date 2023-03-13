@@ -2,14 +2,14 @@
 title: "Spectrometric imaging of sub-hourly methane emission dynamics from coal mine ventilation"
 collection: publications
 permalink: /publication/erl2023knapp
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We conducted a field campaign in the Upper Silesian Coal Basin, Poland, where we measured the methane emission dynamics on the time scale of minutes by spectrometric imaging.'
 date: 2023-03-10
 venue: 'Environmental Research Letters'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://doi.org/10.1088/1748-9326/acc346''
+citation: 'Knapp et al., (2023). &quot;Spectrometric imaging of sub-hourly methane emission dynamics from coal mine ventilation&quot; <i>Environ. Res. Let.</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We conducted a field campaign in the Upper Silesian Coal Basin, Poland, where we measured the methane emission dynamics on the time scale of minutes by spectrometric imaging.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1088/1748-9326/acc346)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Knapp M., Scheidweiler L., Külheim F., Kleinschek R., Necki J., Jagoda P., and Butz A.: Spectrometric imaging of sub-hourly methane emission dynamics from coal mine ventilation, Environ. Res. Let., https://doi.org/10.1088/1748-9326/acc346, 2023.
