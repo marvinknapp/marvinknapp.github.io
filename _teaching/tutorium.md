@@ -3,7 +3,7 @@ title: "Tutor for math and physics"
 collection: teaching
 type: "teaching lessons"
 permalink: /teaching/tutorium
-venue: ""
+venue: "Secondary school and university"
 date: 2010-01-01
 location: "Germany"
 ---
