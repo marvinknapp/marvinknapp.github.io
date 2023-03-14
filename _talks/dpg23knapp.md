@@ -3,7 +3,7 @@ title: "Emission estimates of carbon dioxide and methane with a ground-based ima
 collection: talks
 type: "conference contribution"
 permalink: /talks/dpg23knapp
-date: 2022-03-23
+date: 2023-03-22
 venue: 'EGU 2023'
 location: "Dresden, Germany"
 ---
