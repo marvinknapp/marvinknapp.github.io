@@ -1,6 +1,6 @@
 ---
 title: "Quantifying emission dynamics of coal mine ventilation shafts with a stationary hyperspectral camera"
-collection: publications
+collection: contributions
 permalink: /publication/egu23knapp
 excerpt: 'This is a contribution to the European Geosciences Union 2023.'
 date: 2023-04-01
