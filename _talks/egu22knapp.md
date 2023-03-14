@@ -3,7 +3,6 @@ title: "Towards Carbon Dioxide emission estimation with a stationary hyperspectr
 collection: talks
 type: "conference contribution"
 permalink: /talks/egu22knapp
-excerpt: 'This is a contribution to the European Geosciences Union 2022.'
 date: 2022-03-27
 venue: 'EGU 2023'
 location: "Wien, Austria"

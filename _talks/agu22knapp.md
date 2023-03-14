@@ -3,7 +3,6 @@ title: "Carbon Dioxide and Methane Emission Estimates for Localized Sources with
 collection: talks
 type: "conference contribution"
 permalink: /talks/agu22knapp
-excerpt: 'This is a contribution to the American Geosciences Union 2022.'
 date: 2022-10-01
 venue: ' AGU 2022'
 location: "Chicago, USA"
