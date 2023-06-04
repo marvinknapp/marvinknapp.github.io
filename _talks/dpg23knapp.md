@@ -4,7 +4,7 @@ collection: talks
 type: "conference contribution"
 permalink: /talks/dpg23knapp
 date: 2023-03-22
-venue: 'EGU 2023'
+venue: 'DPG 2023'
 location: "Dresden, Germany"
 ---
 This is a contribution to the Frühjahrstagung of the Deutsche Physikalische GEsellschaft (DPG) in 2023. Find the abstract [here](https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/up/session/7/contribution/3).
