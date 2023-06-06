@@ -10,9 +10,8 @@ redirect_from:
 
 I am a Ph.D. student at the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies are supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg).
 
-My research revolves around greenhouse gas measurements, especially the anthropogenic emissions from point sources like power plants. I enjoy planning and executing field campaigns in which me and my colleagues gather our data, and thus my research has led me around the world; from five weeks on board the <i>RV Sonne</i> in the [Pacific ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my own experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as validation opportunities for satellites or by improving our understanding of anthropogenic greenhouse gas emissions.
-
-In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather-proof housing for a FTIR-spectrometer which is capable to measure from a moving platform. I evaluated the data in my masters thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
+My research revolves around greenhouse gas measurements, especially the anthropogenic emissions from point sources like power plants. I enjoy planning and executing field campaigns in which my colleagues and I gather our data. Thus my research has led me around the world, from five weeks on board the <i>RV Sonne</i> in the [Pacific Ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my experimental measurements and develop or adapt state-of-the-art methods to provide scientifically relevant results, either as satellite validation opportunities or by improving our understanding of anthropogenic greenhouse gas emissions.
+In 2019, I was on the German research vessel Sonne. I developed a weather-proof housing for an FTIR-spectrometer capable of measuring from a moving platform. I evaluated the data in my master's thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
 
 | <img src='/images/MarvinRalphSonne.jpg'> | 
 |:--:| 
@@ -23,8 +22,7 @@ In 2019, I was on the German research vessel <i>Sonne</i>. I developed a weather
 |:--:| 
 | *This was my home for five interesting and exiting weeks.* |
 
-
-In 2022, we conducted a field campaign in Poland, where coal mining causes a large fraction of the European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation are still badly constrained and understood due to complexity of the causes. We were first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe emission dynamics on minute-scales by plume imaging. These information are crucial to understand the meaning of snapshot-images from airborne instruments and the images alone provide important information on the sources, e.g. the effective atmospheric entry height of methane for climate models.
+In 2022, we conducted a field campaign in Poland, where coal mining causes a significant fraction of European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation still need to be better constrained and understood due to the complexity of the causes. We were the first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe emission dynamics on minute scales by plume imaging. This information is crucial to understanding the meaning of snapshot images from airborne instruments. Furthermore, repeatedly taken images alone provide important information on the sources, e.g., the effective atmospheric emission height of methane for climate models.
 
 | <img src='/images/fig1_instruments.png'> | 
 |:--:| 
