@@ -1,10 +1,10 @@
 ---
-title: "Treibhausgase fotografieren – Wie bildgebende Messungen helfen, die menschengemachten Emissionen zu verstehen"
+title: "Treibhausgase fotografieren - Wie bildgebende Messungen helfen, die menschengemachten Emissionen zu verstehen"
 collection: talks
 type: "public talk"
 permalink: /talks/wtdl23knapp
 date: 2023-07-13
-venue: 'CONTRIBUTING TO THE WORLD'S TO DO LIST'
+venue: 'CONTRIBUTING TO THE WORLDS TO DO LIST'
 location: "Heidelberg, Germany"
 ---
 
