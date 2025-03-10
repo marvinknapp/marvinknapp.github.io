@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Currently
+======
+* Postdoctoral Researcher, Harvard University, since Aug. 2024
+  * Part of the [MethaneSAT](https://www.methanesat.org) team
+  * Working on methane source inversions using satellite data
+
 Education
 ======
 * B.Sc. in Physics, Heidelberg University, 2017
 * M.Sc. in Physics, Heidelberg University, 2019
-* Ph.D. in Atmospheric Physics, Heidelberg University, 2024 (expected)
+* Ph.D. in Atmospheric Physics, Heidelberg University, 2024
 
 Work experience
 ======
@@ -35,6 +41,9 @@ Work experience
 Skills
 ======
 * Python Programming
+* Atmospheric Remote Sensing
+  * Spectroscopy
+  * Inverse Modeling
 * Languages
   * German (native)
   * English (expert)
