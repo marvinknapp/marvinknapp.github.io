@@ -4,7 +4,6 @@ collection: teaching
 type: "Tutoring and mentoring students during their final theses"
 permalink: /teaching/mas
 venue: "Heidelberg University"
-date: "2020-2024"
 location: "Germany"
 ---
 
