@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Introduction
+## Introduction
 
 My research focuses on remote sensing greenhouse gas measurements, especially anthropogenic emissions of carbon dioxide and methane. Currently, I am part of the [MethaneSAT](https://www.methanesat.org) science [team](https://www.methanesat.org/team) at Harvard University. The satellite mission objective is to quantify over 80% of global Oil and Gas emissions - an ambitious goal for which the satellite was specifically designed. I contribute to developing the emission inversion methods for turning the satellites observations into actionable, regional scale surface fluxes, as shown on our [web portal](https://portal.methanesat.org/en/emissions-map?view-latitude=25.00000&view-longitude=0.00000&view-zoom=1.80&date=2025-06-30&platform=MethaneSAT&product=l4&color-scale=msat_warm_default).
 
 I received my Ph.D. from the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University in 2024, graduating with Summa cum Laude. My studies were supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg). My research addresses methodological needs in our observational capabilities, like satellite validation over water surfaces or source variability and intermittency.
 
-# Past Work
+## Past Work
 
 I planned and executed several field campaigns during my time in Heidelberg. Thus, my research has led me around the world, from five weeks on board the <i>RV Sonne</i> in the [Pacific Ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my experimental measurements and develop or adapt state-of-the-art methods to advance our understanding of anthropogenic greenhouse gas emissions.
 
