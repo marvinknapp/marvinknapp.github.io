@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marvin Knapp"
+title                    : "Dr. Marvin Knapp"
 title_separator          : "-"
-name                     : &name "Marvin Knapp"
-description              : &description "PhD candiate at Institute of Environmental Physics, Heidelberg University"
+name                     : &name "Dr. Marvin Knapp"
+description              : &description "Environmental physicist"
 url                      : https://marvinknapp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marvinknapp.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marvin Knapp"
   avatar           : "mksmall.jpg"
-  bio              : "Ph.D. in environmental physics, focusing on remote sensing of greenhouse gases in the atmosphere."
+  bio              : "Ph.D. in environmental physics, focusing on remote sensing of greenhouse gases in the atmosphere and emission estimation using Bayesian inference."
   location         : "Boston, MA, USA"
   employer         :
   pubmed           : 

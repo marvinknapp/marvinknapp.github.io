@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on remote sensing greenhouse gas measurements, especially anthropogenic emissions of carbon dioxide and methane. Currently, I am part of the [MethaneSAT](https://www.methanesat.org) research team at Harvard University. The satellite mission objective is to quantify over 80% of global Oil and Gas emissions - an ambitious goal for which the satellite was specifically designed. I contribute to developing the emission inversion methods for estimating the fluxes in the regions the satellite observes.
+# Introduction
 
-I received my Ph.D. from the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University. My studies were supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg). My research addresses methodological needs in our observational capabilities, like satellite validation over water surfaces or source variability and intermittency.
-I enjoy planning and executing field campaigns in which my colleagues and I gather our data. Thus my research has led me around the world, from five weeks on board the <i>RV Sonne</i> in the [Pacific Ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my experimental measurements and develop or adapt state-of-the-art methods to advance our understanding of anthropogenic greenhouse gas emissions.
-In 2019, I was on the German research vessel _Sonne_. I developed a weather-proof housing for an FTIR-spectrometer capable of measuring from a moving platform. I evaluated the data in my master's thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
+My research focuses on remote sensing greenhouse gas measurements, especially anthropogenic emissions of carbon dioxide and methane. Currently, I am part of the [MethaneSAT](https://www.methanesat.org) science [team](https://www.methanesat.org/team) at Harvard University. The satellite mission objective is to quantify over 80% of global Oil and Gas emissions - an ambitious goal for which the satellite was specifically designed. I contribute to developing the emission inversion methods for turning the satellites observations into actionable, regional scale surface fluxes, as shown on our [web portal](https://portal.methanesat.org/en/emissions-map?view-latitude=25.00000&view-longitude=0.00000&view-zoom=1.80&date=2025-06-30&platform=MethaneSAT&product=l4&color-scale=msat_warm_default).
 
-| <img src='/images/MarvinRalphSonne.jpg'> | 
-|:--:| 
-| *My colleague Ralph and me are thinking pretty hard to solve some issues with the instrument in the middle of the Pacific.* |
+I received my Ph.D. from the [Institute of Environmental Physics](https://www.iup.uni-heidelberg.de/en) at Heidelberg University in 2024, graduating with Summa cum Laude. My studies were supervised by [Prof. Dr. André Butz](https://www.iup.uni-heidelberg.de/abutz), who leads the research on [atmospheric remote sensing](https://www.iup.uni-heidelberg.de/en/research/ghg). My research addresses methodological needs in our observational capabilities, like satellite validation over water surfaces or source variability and intermittency.
 
+# Past Work
 
-| <img src='/images/sonne.jpg'> | 
-|:--:| 
-| *This was my home for five interesting and exiting weeks.* |
+I planned and executed several field campaigns during my time in Heidelberg. Thus, my research has led me around the world, from five weeks on board the <i>RV Sonne</i> in the [Pacific Ocean](publication/essd2021knapp) to the volcano Mt. Etna in Sicily and the coal mine ventilation shafts in the [Upper Silesian Coal Basin](publication/erl2023knapp). Consequently, I work with my experimental measurements and develop or adapt state-of-the-art methods to advance our understanding of anthropogenic greenhouse gas emissions.
 
-In 2022, we conducted a field campaign in Poland, where coal mining causes a significant fraction of European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation still need to be better constrained and understood due to the complexity of the causes. We were the first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe emission dynamics on minute scales by plume imaging. This information is crucial to understanding the meaning of snapshot images from airborne instruments. Furthermore, repeatedly taken images alone provide important information on the sources, e.g., the effective atmospheric emission height of methane for climate models.
+I pioneered [ground-based carbon dioxide imaging](publication/amt2024knapp) using a hyperspectral camera at a powerplant in Mannheim. Additionally , we conducted a field campaign in Poland in 2022, where coal mining causes a significant fraction of European methane emissions. Although studied extensively in the past, methane emissions from coal mine ventilation still need to be better constrained and understood due to the complexity of the causes. We were the first to deploy an imaging spectrometer in the vicinity of a coal shaft, and I could show that it is possible to observe high-frequent emission dynamics using plume imaging. This information is crucial to understanding the meaning of snapshot images from airborne instruments. Furthermore, repeatedly taken images alone provide important information on the sources, e.g., the effective atmospheric emission height of methane for climate models.
 
 | <img src='/images/fig1_instruments.png'> | 
 |:--:| 
@@ -33,6 +28,12 @@ In 2022, we conducted a field campaign in Poland, where coal mining causes a sig
 |:--:| 
 | *This was one of the methane plumes I observed (a) and used for an emission estimate (b) of the coal mine ventilation shaft.* |
 
+
+In 2019, I spent five weeks on the German research vessel _Sonne_. I developed a weather-proof housing for an FTIR-spectrometer capable of measuring from a moving platform. I evaluated the data in my master's thesis and published them as they provide rare validation opportunities for greenhouse gas observing satellites above the ocean.
+
+| <img src='/images/MarvinRalphSonne.jpg'> | 
+|:--:| 
+| *My colleague Ralph and me are thinking pretty hard in the middle of the Pacific Ocean.* |
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

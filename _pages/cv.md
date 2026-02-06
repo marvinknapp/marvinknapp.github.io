@@ -23,6 +23,16 @@ Education
 
 Work experience
 ======
+* 07/2025 - today: Scientist
+  * Environmental Defense Fund (EDF)
+  * Duties included: Development of Bayesian inversion methods
+  * Manager: Dr. Ritesh Gautam
+
+* 07/2024 - 07/2025: Postdoctoral Researcher
+  * Harvard University
+  * Duties included: Development of Bayesian inversion methods
+  * PI: Prof. Dr. Steven C. Wofsy
+
 * Spring 2020: Research Assistant
   * Heidelberg University
   * Duties included: Publication
@@ -43,10 +53,14 @@ Skills
 * Python Programming
 * Atmospheric Remote Sensing
   * Spectroscopy
-  * Inverse Modeling
+  * Emission Estimation
+* Data Analysis
+  * Bayesian Inference
+  * Monte Carlo Methods
 * Languages
   * German (native)
   * English (expert)
+  * French (beginner)
 
 Publications
 ======
